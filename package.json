@@ -1,0 +1,26 @@
+{
+  "name": "pretty-console",
+  "version": "1.0.0",
+  "description": "Package to prettify the console output",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/engineerchirag/pretty-console.git"
+  },
+  "keywords": [
+    "Console",
+    "Prettify"
+  ],
+  "author": "Chirag Goel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/engineerchirag/pretty-console/issues"
+  },
+  "homepage": "https://github.com/engineerchirag/pretty-console#readme",
+  "dependencies": {
+    "beautiful-console": "^1.0.5"
+  }
+}
